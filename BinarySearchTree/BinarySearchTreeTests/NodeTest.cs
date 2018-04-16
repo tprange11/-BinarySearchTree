@@ -7,15 +7,15 @@ namespace BinarySearchTreeTests
     [TestClass]
     public class NodeTest
     {
-        [TestMethod]
-        public void TestMethod1()
-        {
-            // Arrange
+        //[TestMethod]
+        //public void TestMethod1()
+        //{
+        //    // Arrange
 
-            // Act
+        //    // Act
 
-            // Assert
+        //    // Assert
 
-        }
+        //}
     }
 }
